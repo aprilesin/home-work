@@ -18,6 +18,6 @@ function setO() {
       tmp = 1;
       turn++;
      }
-    } while (!tmp && (turn < 4))
+    } while (!tmp && (turn < 4));
     tmp=0;
 }
