@@ -1,0 +1,30 @@
+.wolf {
+  position: absolute;
+  top: 57.5%;
+  left: 40%;
+  width: 240px;
+  height: 300px;
+  background-image: url(wolf.png);
+}
+
+.egg1, .egg2 {
+  position: absolute;
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  background-image: url(egg1.png);
+}
+.egg1 {
+  top:0;
+  left: 120px;
+}
+
+.egg2 {
+  right: 120px;
+}
+
+.score
+{
+  font-size: 25px;
+  text-align: center;
+}
